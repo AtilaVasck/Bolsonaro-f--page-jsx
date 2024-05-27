@@ -1,5 +1,6 @@
 import { Caixa, Flex, Titulo ,Buttons, CaixaGrupo, CaixaDois, Imagem, Dados, Dados1, Dados2, Paragrafo } from "../styles/Box"
 
+// eslint-disable-next-line react/prop-types
 const Box = ({tittle, img}) =>{
      return(
           <>

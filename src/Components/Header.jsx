@@ -1,5 +1,6 @@
 import {Cabeca, Logo, Lista, Buttons, Paragraph} from '../styles/Cabeca'
 
+// eslint-disable-next-line react/prop-types
 const Header = ({logo, sobre, autor}) =>{
 return (
      <Cabeca>
